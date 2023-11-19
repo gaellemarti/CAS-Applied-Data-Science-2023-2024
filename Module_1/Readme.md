@@ -1,5 +1,7 @@
 # CAS-Applied-Data-Science
 
+## This folder has been forked, below is the original readme file:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sigvehaug/CAS-Applied-Data-Science)
 
 Module 1 material. These are the notebooks and other files needed for the exercises. Slides used as introductions are on google:
