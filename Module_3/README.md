@@ -1,5 +1,5 @@
 # Introduction to Machine Learning and Data Analysis
-## Module 3 has been forked, this is the original readme file
+## Module 3 has been forked, below is the original readme file:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neworldemancer/DSF5/master)
 
